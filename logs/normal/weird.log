@@ -1,0 +1,1 @@
+{"ts":1427219089.06893,"uid":"CTZg3L1kXaWCEatkK4","id.orig_h":"10.0.0.34","id.orig_p":40583,"id.resp_h":"8.8.8.8","id.resp_p":53,"name":"dnp3_corrupt_header_checksum","notice":false,"peer":"zeek","source":"DNP3_UDP"}
